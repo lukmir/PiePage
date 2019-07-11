@@ -27,7 +27,7 @@ namespace WebApplication1
                     DbInitializer.Seed(context);
                 }
                 catch (Exception)
-                {
+                { 
                     //we could log this in a real-world situation
                 }
             }
