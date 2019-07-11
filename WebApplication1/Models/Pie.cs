@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace PieShop.Models
 {
     public class Pie
-    {
+    {    
         public int Id { get; set; }
         public string Name { get; set; }
         public string ShortDescription { get; set; }
